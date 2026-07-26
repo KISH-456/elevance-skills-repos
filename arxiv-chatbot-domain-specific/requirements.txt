@@ -1,0 +1,14 @@
+streamlit
+pandas
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+langchain-text-splitters
+langchain-core
+faiss-cpu
+sentence-transformers
+huggingface-hub
+openai
+tiktoken
+python-dotenv
